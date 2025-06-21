@@ -19,14 +19,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ingka-kbw/Ingka-kbw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ingka-kbw/Ingka-kbw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ingka-kbw/Ingka-kbw/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img height="200" src="https://images.teepublic.com/derived/production/designs/74842835_0/1746345527/i_p:c_ffffff,s_313,q_90.jpg"  />
 </div>
