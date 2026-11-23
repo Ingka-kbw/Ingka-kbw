@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😼, I'm Ingkawat Kialbulwat</h1>
 <h3 align="center">A Sophomore computer engineering student from SIIT, Thailand</h3>
 
-- 🌱 I’m currently learning **Python OOP and frontend development**
+- 🌱 I’m currently learning **Python OOP, frontend development, and network fundamental**
 
 - ✉️ Here's contact **ingkawat.kbw@gmail.com**
 
